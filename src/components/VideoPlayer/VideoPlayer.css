@@ -1,0 +1,11 @@
+.video-player {
+  width: 100%;
+  background: #000;
+}
+
+.video-element {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+}
